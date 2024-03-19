@@ -9,7 +9,7 @@ function App() {
   return (
     <BrowserRouter>
       <div className="App">
-        <h1>Amenaarag@ntac meqenanery ashxarhum</h1>
+        <h1>Meqenaneri arajin serianer@</h1>
         <div className="parent">
           <a href="#">
             <Link to="/">Mersedes</Link>
